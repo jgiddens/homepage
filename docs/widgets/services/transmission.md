@@ -15,5 +15,6 @@ widget:
   url: http://transmission.host.or.ip
   username: username
   password: password
+  fields: ["leech", "download", "seed", "upload"]
   rpcUrl: /transmission/ # Optional. Matches the value of "rpc-url" in your Transmission's settings.json file
 ```
