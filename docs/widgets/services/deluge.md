@@ -13,5 +13,6 @@ Allowed fields: `["leech", "download", "seed", "upload"]`.
 widget:
   type: deluge
   url: http://deluge.host.or.ip
+  fields: ["leech", "download", "seed", "upload"]
   password: password # webui password
 ```
