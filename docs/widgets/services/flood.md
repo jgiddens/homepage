@@ -13,4 +13,5 @@ widget:
   url: http://flood.host.or.ip
   username: username # if set
   password: password # if set
+  fields: ["leech", "download", "seed", "upload"]
 ```
